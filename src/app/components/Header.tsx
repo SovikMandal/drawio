@@ -30,7 +30,7 @@ const Header = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between">
         <div className="text-xl sm:text-2xl font-bold text-white">
           <span className="bg-gradient-to-r from-indigo-400 to-purple-400 bg-clip-text text-transparent">
-            DiagramFlow
+            Drawio
           </span>
         </div>
 
